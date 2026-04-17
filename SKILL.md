@@ -1,5 +1,7 @@
 ---
 name: challenge-loop
+version: 1.0.0
+license: MIT-0
 description: |
   Challenge Loop — adversarial hardening for judgment-containing outputs.
   Two modes: inline self-refutation (zero latency) and independent challenger subagent.

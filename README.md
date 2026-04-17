@@ -80,4 +80,4 @@ challenge-loop/
 
 ## License
 
-MIT
+MIT-0 — free to use, modify, and redistribute. No attribution required.
